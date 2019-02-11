@@ -10,7 +10,7 @@
 
 #### why?
 
-Twitter deprecated it's public API and now it's too much work to grab something that's publicly visible ¯\\_/(ツ)\_/¯    
+Twitter deprecated it's public API and now it's too much work to grab something that's publicly visible ¯\\_(ツ)\_/¯    
 
 #### usage
 
