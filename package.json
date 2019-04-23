@@ -1,27 +1,14 @@
 {
-  "name": "twitter-followers",
-  "version": "1.0.0",
-  "description": "Get twitter followers for a username",
-  "main": "index.js",
+  "name": "metrics.coffee",
+  "private": "true",
+  "workspaces": [
+    "api"
+  ],
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/siddharthkp/twitter-followers.git"
-  },
-  "keywords": [
-    "twitter",
-    "followers",
-    "api"
-  ],
+  "repository": "https://github.com/siddharthkp/metrics.coffee",
   "author": "siddharthkp",
   "license": "MIT",
-  "homepage": "https://github.com/siddharthkp/twitter-followers#readme",
-  "dependencies": {
-    "cheerio": "1.0.0-rc.2",
-    "cors": "2.8.4",
-    "express": "4.16.3",
-    "request": "2.87.0"
-  }
+  "homepage": "https://metrics.coffee"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API to scrap information from sources",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node api"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.3",
+    "cors": "2.8.5",
+    "express": "4.16.4",
+    "express-no-favicons": "^0.0.1",
+    "request": "2.88.0"
+  }
+}
